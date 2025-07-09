@@ -13,23 +13,23 @@ import {
 const items = [
   {
     title: "Cat 1",
-    url: "#",
+    url: "/test",
   },
   {
     title: "Cat 2",
-    url: "#",
+    url: "/test",
   },
   {
     title: "Cat 3",
-    url: "#",
+    url: "/test",
   },
   {
     title: "Cat 4",
-    url: "#",
+    url: "/test",
   },
   {
     title: "Cat 5",
-    url: "#",
+    url: "/test",
   },
 ];
 

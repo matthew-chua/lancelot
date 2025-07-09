@@ -6,8 +6,8 @@ export default function IndividualListingPage() {
   const { id } = useParams();
   console.log(id);
   return (
-    <div className="flex gap-8">
-      <div className="sticky top-4 h-fit">
+    <div className="flex flex-col lg:flex-row gap-8">
+      <div className="lg:sticky lg:top-4 h-fit">
         <ProfileCard />
       </div>
       <ReviewsSection />
